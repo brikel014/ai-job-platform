@@ -40,12 +40,12 @@ export const RESTAURANT_INFO = {
     "https://www.google.com/maps/dir/?api=1&destination=Hauptstra%C3%9Fe+34,+16547+Birkenwerder",
   openingHours: [
     { day: "Montag", hours: "Ruhetag", isClosed: true },
-    { day: "Dienstag", hours: "12:00 – 14:30 Uhr & 17:00 – 22:00 Uhr", isClosed: false },
-    { day: "Mittwoch", hours: "12:00 – 14:30 Uhr & 17:00 – 22:00 Uhr", isClosed: false },
-    { day: "Donnerstag", hours: "12:00 – 14:30 Uhr & 17:00 – 22:00 Uhr", isClosed: false },
-    { day: "Freitag", hours: "12:00 – 14:30 Uhr & 17:00 – 23:00 Uhr", isClosed: false },
-    { day: "Samstag", hours: "12:00 – 14:30 Uhr & 17:00 – 23:00 Uhr", isClosed: false },
-    { day: "Sonntag", hours: "12:00 – 14:30 Uhr & 17:00 – 22:00 Uhr", isClosed: false },
+    { day: "Dienstag", hours: "12:00 – 14:30 & 17:00 – 22:00 Uhr", isClosed: false },
+    { day: "Mittwoch", hours: "12:00 – 14:30 & 17:00 – 22:00 Uhr", isClosed: false },
+    { day: "Donnerstag", hours: "12:00 – 14:30 & 17:00 – 22:00 Uhr", isClosed: false },
+    { day: "Freitag", hours: "12:00 – 14:30 & 17:00 – 22:00 Uhr", isClosed: false },
+    { day: "Samstag", hours: "12:00 – 14:30 & 17:00 – 22:00 Uhr", isClosed: false },
+    { day: "Sonntag", hours: "12:00 – 14:30 & 17:00 – 22:00 Uhr", isClosed: false },
   ],
   highlights: [
     "Historisches Ratskeller-Ambiente & sonnige Außenterrasse",

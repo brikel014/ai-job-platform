@@ -96,7 +96,7 @@ export default function DueFratelliPage() {
             </span>
             <span className="hidden md:inline-flex items-center gap-1.5 text-cream-200/80">
               <Clock className="h-3.5 w-3.5 text-gold-400" />
-              Di–Do & So: 12:00–14:30 & 17:00–22:00 • Fr–Sa bis 23:00 Uhr (Mo Ruhetag)
+              Di–So: 12:00–14:30 & 17:00–22:00 Uhr (Mo Ruhetag)
             </span>
           </div>
           <div className="flex items-center gap-4">
@@ -294,9 +294,9 @@ export default function DueFratelliPage() {
                   <Clock className="h-5 w-5 shrink-0 text-gold-400 mt-0.5" />
                   <div>
                     <p className="text-xs uppercase tracking-wider text-gold-400 font-semibold">
-                      Mittags & Abends
+                      Öffnungszeiten
                     </p>
-                    <p className="text-sm text-cream-100">Di–So ab 12:00 & ab 17:00 Uhr</p>
+                    <p className="text-sm text-cream-100">Di–So 12:00–14:30 & 17:00–22:00 Uhr</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
